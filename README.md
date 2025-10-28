@@ -6,10 +6,11 @@ Play against a friend and see who gets three in a row first!
 ---
 
 ## 🖼️ Demo Screenshot
-https://github.com/Vivekkumar709/Tic-Tac-Toe-Game/blob/main/Screenshot%20(17).png
-https://github.com/Vivekkumar709/Tic-Tac-Toe-Game/blob/main/Screenshot%20(18).png
-https://github.com/Vivekkumar709/Tic-Tac-Toe-Game/blob/main/Screenshot%20(19).png
+<img width="1920" height="1080" alt="Screenshot (17)" src="https://github.com/user-attachments/assets/a2bb29a4-1ae1-4f5f-9710-fd208536b368" />
 
+<img width="1920" height="1080" alt="Screenshot (18)" src="https://github.com/user-attachments/assets/7715334c-0c16-4f31-a810-bca83de5cc16" />
+
+<img width="1920" height="1080" alt="Screenshot (19)" src="https://github.com/user-attachments/assets/ee7cac11-cd44-45ee-913c-2068119dc73b" />
 
 ---
 ## 🧩 Features
