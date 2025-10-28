@@ -34,5 +34,4 @@ Play against a friend and see who gets three in a row first!
 
 ---
 
-## 📂 Folder Structure
 
